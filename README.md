@@ -49,9 +49,9 @@ PERF(a, b)
 
 In the code provided above we define a test `b` in fixture `a`. 
 There is a possibility to extend default reporter, provided by libriary itself, with your custom implementaution. 
-For example, code above demontrsates creation of `SecRepoter` reporter with different formatting option: reporting performance by seconds. 
+For example, code above demontrsates creation of `SecRepoter`, a reporter with different formatting option: reporting performance by seconds. 
 
-The output on the consolde might look like this: 
+The output on the console might look like this: 
 
 
 
